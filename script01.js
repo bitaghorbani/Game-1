@@ -1,1 +1,1 @@
-console.log(script01.js)
+console.log("script01");
