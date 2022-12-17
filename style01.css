@@ -67,7 +67,7 @@ body {
         transform: translateX(-50%);
         border-radius: 0.8rem;
 
-        box-shadow: rgba(0, 0, 0, 0.3)0px 19px 38px,rgba(0, 0, 0, )0px 15px 38px;
+        box-shadow: rgba(0, 0, 0, 0.3)0px 19px 38px,rgba(0, 0, 0,0.3 )0px 15px 38px;
         font-weight: 700;
         font-size: 0.5em;
     }
@@ -81,7 +81,7 @@ body {
         transform: translateX(-50%);
         border-radius: 0.8rem;
 
-        box-shadow: rgba(0, 0, 0, 0.3)0px 19px 38px,rgba(0, 0, 0, )0px 15px 17px;
+        box-shadow: rgba(0, 0, 0, 0.3)0px 19px 38px,rgba(0, 0, 0,0.3 )0px 15px 17px;
         font-weight: 700;
         font-size: 0.5em;
         color: #c7365f;
